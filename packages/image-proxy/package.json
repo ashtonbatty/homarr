@@ -33,6 +33,6 @@
     "@homarr/tsconfig": "workspace:^0.1.0",
     "@types/bcrypt": "6.0.0",
     "eslint": "^9.39.4",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.2"
   }
 }
